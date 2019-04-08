@@ -1,0 +1,10 @@
+body{
+    background-color: darkorange;
+}
+#header-div{
+    background-color: chartreuse;
+    color: darkblue;
+    position: center;
+    font-size: 50px;
+    border: antiquewhite 10px dashed;
+}
